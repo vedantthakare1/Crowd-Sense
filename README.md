@@ -1,6 +1,7 @@
 # Crowd-Sense
 
 ## Real-Time Crowd Density Monitoring and Early Danger Alerts
+[![Open in Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/vedantthakare1/Crowd-Sense/blob/main/crowdsense_improved.ipynb)
 
 Crowd-Sense is a computer-vision based system designed to monitor crowd density in real time and provide early warnings when a zone becomes dangerously crowded.
 
