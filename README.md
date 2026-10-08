@@ -131,5 +131,4 @@ Crowd-Sense/
 ## 🎥 Demo
 
 The following video demonstrates the Crowd-Sense prototype processing crowd footage, detecting people, counting them by zone, displaying the Green/Yellow/Red density status, and raising a danger alert when the configured threshold is crossed.
-
-[▶️ Watch the Crowd-Sense Demo](./demo.mp4)
+[▶️ Watch the Crowd-Sense Demo](./crowdsense_output.mp4)
